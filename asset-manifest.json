@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nawazdanish1996.github.io/csb-eh9lo3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nawazdanish1996.github.io/csb-eh9lo3/static/js/main.42ae65db.chunk.js",
+    "main.js.map": "https://nawazdanish1996.github.io/csb-eh9lo3/static/js/main.42ae65db.chunk.js.map",
+    "runtime-main.js": "https://nawazdanish1996.github.io/csb-eh9lo3/static/js/runtime-main.2d199008.js",
+    "runtime-main.js.map": "https://nawazdanish1996.github.io/csb-eh9lo3/static/js/runtime-main.2d199008.js.map",
+    "static/js/2.a7aea183.chunk.js": "https://nawazdanish1996.github.io/csb-eh9lo3/static/js/2.a7aea183.chunk.js",
+    "static/js/2.a7aea183.chunk.js.map": "https://nawazdanish1996.github.io/csb-eh9lo3/static/js/2.a7aea183.chunk.js.map",
+    "index.html": "https://nawazdanish1996.github.io/csb-eh9lo3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nawazdanish1996.github.io/csb-eh9lo3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a7aea183.chunk.js.LICENSE.txt": "https://nawazdanish1996.github.io/csb-eh9lo3/static/js/2.a7aea183.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d199008.js",
+    "static/js/2.a7aea183.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.42ae65db.chunk.js"
+  ]
+}
